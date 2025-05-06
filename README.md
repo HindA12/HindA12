@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a data a scientist at inwi with a passion for Cloud an
 
 - 💻 Currently working on some GenAI projects
 - 🌱 Currently learning **GenAI** and **MLOps**
-- 📫 How to reach me: [link text](allaoui.hind3@gmail.com)
+- 📫 How to reach me: [allaoui.hind3@gmail.com](allaoui.hind3@gmail.com)
 
 ---
 
